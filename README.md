@@ -1,4 +1,4 @@
-# jenkins-on-aws-ec2
+# jenkins-on-aws-ec2 using Amazon Linux AMI instance (Amazon Machine Image)
 
 Setup Jenkins on AWS EC2 instance
 
